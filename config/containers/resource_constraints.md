@@ -28,7 +28,7 @@ Consult your operating system's documentation for enabling them.
 
 ## Memory
 
-### Understand the risks of running out of memory
+###  Understand the risks of running out of memory
 
 It is important not to allow a running container to consume too much of the
 host machine's memory. On Linux hosts, if the kernel detects that there is not
